@@ -1,0 +1,10 @@
+{
+    "name": "BrokenArms_GTFO",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Multiple tweaks to scale down difficulty for broken arms.",
+    "dependencies": [
+        "BepInEx-BepInExPack_GTFO-3.2.1",
+        "dakkhuza-MTFO-4.5.1"
+    ]
+}

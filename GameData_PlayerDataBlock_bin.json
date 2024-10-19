@@ -2,9 +2,9 @@
   "Headers": [],
   "Blocks": [
     {
-      "health": 50.0,
+      "health": 100.0,
       "healthRegenStartDelayAfterDamage": 3.0,
-      "healthRegenRelMax": 1,
+      "healthRegenRelMax": 0.5,
       "healthRegenDelay": 1.0,
       "healthRegenPerSecond": 2.5,
       "friendlyFireMulti": 1,

@@ -3,7 +3,7 @@
   "Blocks": [
     {
       "health": 100.0,
-      "healthRegenStartDelayAfterDamage": 3.0,
+      "healthRegenStartDelayAfterDamage": 10.0,
       "healthRegenRelMax": 0.5,
       "healthRegenDelay": 1.0,
       "healthRegenPerSecond": 2.5,

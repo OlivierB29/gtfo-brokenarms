@@ -2477,7 +2477,7 @@
         "g": 0.791291356,
         "b": 0.7924528
       },
-      "FogDensity": 0.02,
+      "FogDensity": 0.002,
       "FogAmbience": 0.0001,
       "DensityNoiseDirection": {
         "x": 0.0,
@@ -2504,7 +2504,7 @@
         "g": 0.791291356,
         "b": 0.7924528
       },
-      "FogDensity": 0.017,
+      "FogDensity": 0.0017,
       "FogAmbience": 0.0001,
       "DensityNoiseDirection": {
         "x": 0.0,
@@ -2531,7 +2531,7 @@
         "g": 0.0,
         "b": 0.0
       },
-      "FogDensity": 0.015,
+      "FogDensity": 0.0015,
       "FogAmbience": 0.0001,
       "DensityNoiseDirection": {
         "x": 0.0,
@@ -5187,7 +5187,7 @@
         "g": 1.0,
         "b": 1.0
       },
-      "FogDensity": 0.015,
+      "FogDensity": 0.0015,
       "FogAmbience": 0.0,
       "DensityNoiseDirection": {
         "x": 1.0,
@@ -5221,7 +5221,7 @@
         "g": 0.967139959,
         "b": 1.0
       },
-      "FogDensity": 0.02,
+      "FogDensity": 0.002,
       "FogAmbience": 0.0,
       "DensityNoiseDirection": {
         "x": 1.48,
@@ -5255,7 +5255,7 @@
         "g": 1.0,
         "b": 1.0
       },
-      "FogDensity": 0.014,
+      "FogDensity": 0.0014,
       "FogAmbience": 0.0,
       "DensityNoiseDirection": {
         "x": 1.0,
@@ -5289,7 +5289,7 @@
         "g": 1.0,
         "b": 1.0
       },
-      "FogDensity": 0.023,
+      "FogDensity": 0.0023,
       "FogAmbience": 0.0,
       "DensityNoiseDirection": {
         "x": 1.0,
@@ -5323,7 +5323,7 @@
         "g": 0.797,
         "b": 0.232458353
       },
-      "FogDensity": 0.0005,
+      "FogDensity": 0.00005,
       "FogAmbience": 0.0,
       "DensityNoiseDirection": {
         "x": 1.0,
@@ -5357,7 +5357,7 @@
         "g": 0.711288869,
         "b": 0.509839952
       },
-      "FogDensity": 0.002,
+      "FogDensity": 0.0002,
       "FogAmbience": 0.0003,
       "DensityNoiseDirection": {
         "x": 1.0,
@@ -5391,7 +5391,7 @@
         "g": 1.0,
         "b": 1.0
       },
-      "FogDensity": 0.04,
+      "FogDensity": 0.004,
       "FogAmbience": 0.0,
       "DensityNoiseDirection": {
         "x": 1.0,

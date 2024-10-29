@@ -10,4 +10,7 @@ All credits to EcoLight
 - Health: 100%
 - Max regen up to 40%
 - healthRegenStartDelayAfterDamage : 10s
- 
+- FogDensity /10 of Fog_Heavy_ entries
+- FogDensity /10 of Fog_Medium_ entries 
+
+

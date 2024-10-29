@@ -4,7 +4,7 @@
     {
       "health": 100.0,
       "healthRegenStartDelayAfterDamage": 10.0,
-      "healthRegenRelMax": 0.5,
+      "healthRegenRelMax": 0.4,
       "healthRegenDelay": 1.0,
       "healthRegenPerSecond": 2.5,
       "friendlyFireMulti": 1,

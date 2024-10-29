@@ -8,6 +8,6 @@ All credits to EcoLight
 
 #### Player stats:
 - Health: 100%
-- Max regen up to 50%
+- Max regen up to 40%
 - healthRegenStartDelayAfterDamage : 10s
  

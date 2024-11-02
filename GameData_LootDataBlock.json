@@ -9,7 +9,7 @@
         {
           "m_amountAbs": 0,
           "m_type": "Health",
-          "m_amountRel": 0.3
+          "m_amountRel": 0.6
         },
         {
           "m_amountAbs": 0,
@@ -29,7 +29,7 @@
         {
           "m_amountAbs": 0,
           "m_type": "Ammo",
-          "m_amountRel": 0.3
+          "m_amountRel": 0.6
         },
         {
           "m_amountAbs": 0,
@@ -69,12 +69,12 @@
         {
           "m_amountAbs": 0,
           "m_type": "Health",
-          "m_amountRel": 0.1
+          "m_amountRel": 0.2
         },
         {
           "m_amountAbs": 0,
           "m_type": "Ammo",
-          "m_amountRel": 0.1
+          "m_amountRel": 0.2
         }
       ],
       "name": "LootSmall_1",
